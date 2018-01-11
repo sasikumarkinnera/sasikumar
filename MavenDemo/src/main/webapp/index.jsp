@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 Welcome sasi ku
+=======
+Welcome sasi kumar kinnera
+>>>>>>> branch 'Branch-one' of https://github.com/sasikumarkinnera/sasikumar.git
 </body>
 </html>
